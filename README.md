@@ -1,5 +1,5 @@
 # spirit-animal-generator
 A random generator of spiritual animal names
 
-# CodePen
+# codepen
 [Link](https://codepen.io/Nicolas-Quiroga-the-lessful/pen/GRLJKKZ)
