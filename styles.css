@@ -1,0 +1,46 @@
+body {
+  background-color: midnightblue;
+  color: white;
+  font-family: cursive;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 50px;
+}
+
+input[type="text"],
+button {
+  margin-top: 20px;
+  font-size: 16px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+button {
+  background-color: white;
+  color: midnightblue;
+  border: 2px solid midnightblue;
+}
+
+button:hover {
+  background-color: midnightblue;
+  color: white;
+}
+
+.custom-alert {
+  font-size: 2rem;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #212121;
+  color: white;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+  white-space: pre-line;
+}
